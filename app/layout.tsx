@@ -5,12 +5,16 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "./provider";
 
-const inter = Inter({ subsets: ["latin"], display: 'swap', });
+const inter = Inter({ subsets: ["latin"], display: "swap" });
 
 export const metadata: Metadata = {
   title: "Furaha's Portfolio",
   description: "This is Brian Furaha's Portfolio",
 };
+
+// if (typeof window !== "undefined") {
+//   import("./instrumentation-client");
+// }
 
 export default function RootLayout({
   children,

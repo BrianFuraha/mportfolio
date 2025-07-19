@@ -153,10 +153,29 @@ export function Globe({ globeConfig, data }: WorldProps) {
     setGlobeData(filteredPoints);
   };
 
+  const validFeatures = countries.features.filter((feature) => {
+    const coords = feature.geometry.coordinates;
+
+    // Handle both Polygon and MultiPolygon
+    const flatCoords =
+      feature.geometry.type === "Polygon" ? coords.flat(1) : coords.flat(2);
+
+    return flatCoords.every(
+      (coord: any) =>
+        Array.isArray(coord) &&
+        coord.length === 2 &&
+        typeof coord[0] === "number" &&
+        typeof coord[1] === "number" &&
+        !isNaN(coord[0]) &&
+        !isNaN(coord[1])
+    );
+  });
+  
+
   useEffect(() => {
     if (globeRef.current && globeData) {
       globeRef.current
-        .hexPolygonsData(countries.features)
+        .hexPolygonsData(validFeatures)
         .hexPolygonResolution(3)
         .hexPolygonMargin(0.7)
         .showAtmosphere(defaultProps.showAtmosphere)
