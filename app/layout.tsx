@@ -12,17 +12,13 @@ export const metadata: Metadata = {
   description: "This is Brian Furaha's Portfolio",
 };
 
-// if (typeof window !== "undefined") {
-//   import("./instrumentation-client");
-// }
-
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
