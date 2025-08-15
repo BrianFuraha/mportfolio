@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   width="27"
+   height="16"
+   viewBox="0 0 30.796875 18.25"
+   version="1.1"
+   fill="#000000"
+   id="svg2"
+   sodipodi:docname="nmdb.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.859375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="matrix(0.42282753,0,0,0.2508657,0.02216618,-0.10976667)">
+    <title
+       id="title1">databases-and-servers/databases/mongodb</title>
+    <desc
+       id="desc1">Created with Sketch.</desc>
+    <defs
+       id="defs1" />
+    <g
+       id="databases-and-servers/databases/mongodb"
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd">
+      <g
+         id="container"
+         transform="translate(2,2)"
+         fill="#ffffff"
+         fill-rule="nonzero"
+         stroke="#134514"
+         stroke-width="2">
+        <rect
+           id="mask"
+           x="-1"
+           y="-1"
+           width="71"
+           height="71"
+           rx="14" />
+      </g>
+      <g
+         id="Group"
+         transform="translate(25,11)"
+         fill-rule="nonzero">
+        <path
+           d="m 12.494478,50.728228 -1.348433,-0.460884 c 0,0 0.164678,-6.874405 -2.3026368,-7.367725 -1.6442822,-1.908052 0.2637695,-80.91772 6.1843258,-0.263413 0,0 -2.03958,1.019434 -2.401372,2.763164 -0.394941,1.710581 -0.131884,5.328858 -0.131884,5.328858 z"
+           id="Shape"
+           fill="#a6a385" />
+        <path
+           d="m 13.218418,44.083731 c 0,0 11.809033,-7.763023 9.045513,-23.913917 C 19.599858,8.4274365 13.317153,4.5788965 12.626362,3.0985791 11.869985,2.0459961 11.146045,0.20424316 11.146045,0.20424316 L 11.639722,32.866753 c 0,0.03315 -1.01979,9.999717 1.579052,11.217334"
+           id="path1"
+           fill="#499d4a" />
+        <path
+           d="m 10.45561,44.511108 c 0,0 -11.08544887,-7.565551 -10.42745082,-20.886982 C 0.65300781,10.302339 8.4816162,3.7565772 9.9947266,2.5724658 10.981724,1.5198828 11.014517,1.1249414 11.080459,0.0723584 11.77125,1.5526758 11.639722,22.209751 11.738101,24.64356 12.03395,34.018071 11.211987,42.735298 10.45561,44.511108 Z"
+           id="path2"
+           fill="#58aa50" />
+      </g>
+    </g>
+  </g>
+</svg>

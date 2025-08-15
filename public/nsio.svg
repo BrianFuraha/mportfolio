@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="27"
+   height="16"
+   viewBox="0 0 13.5 8"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="nsio.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:lockguides="false"
+     inkscape:zoom="7.859375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round" />
+  <g
+     id="SVGRepo_iconCarrier"
+     transform="matrix(0.42181827,0,0,0.25027139,-0.00135749,0.01490777)">
+    <path
+       d="M 15.917,0.021 C 14.578,0.026 13.245,0.193 11.948,0.526 5.708,2.078 0.755,7.729 0.12,14.139 -0.667,20.202 2.401,26.52 7.645,29.65 12.797,32.874 19.77,32.745 24.812,29.354 29.344,26.411 32.161,21.051 31.995,15.639 31.918,10.286 28.912,5.082 24.312,2.332 21.807,0.785 18.86,0.009 15.917,0.02 Z m -0.089,2.26 C 22.421,2.27 28.88,7.369 29.541,14.182 30.802,21.729 24.536,29.401 16.89,29.625 9.619,30.349 2.587,24.182 2.379,16.88 1.838,10.969 5.739,5.099 11.311,3.145 12.748,2.573 14.28,2.281 15.827,2.286 Z m 6.792,4.303 c -3.584,2.78 -7.016,5.744 -10.521,8.609 1.604,0.02 3.219,0.02 4.828,0.009 1.88,-2.885 3.813,-5.733 5.693,-8.619 z m -7.552,10.203 c -1.88,2.891 -3.817,5.744 -5.699,8.635 3.595,-2.776 7.011,-5.76 10.537,-8.609 -1.615,-0.02 -3.229,-0.025 -4.839,-0.025 z"
+       id="path1" />
+  </g>
+</svg>

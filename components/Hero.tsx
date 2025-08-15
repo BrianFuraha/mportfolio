@@ -34,7 +34,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Brian a Web Developer based in Kenya.
+            Hi, I&apos;m Brian Furaha a Web Developer based in Kenya.
           </p>
 
           <a href="#about">
