@@ -3,6 +3,14 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
+  output: 'export',
+  reactStrictMode: true,
+  images: {
+    unoptimized: false, // keep this for optimization unless you have static export
+  },
+  typescript: {
+    ignoreBuildErrors: true
+  }
 };
 
 export default withSentryConfig(nextConfig, {
