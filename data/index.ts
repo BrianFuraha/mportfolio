@@ -188,7 +188,7 @@ export const workExperience = [
   {
     id: 3,
     title: "IT Technician Mentee",
-    desc: "Was a mentee where i assisted in networn and cctv installation and maintenance.",
+    desc: "Was a mentee where i assisted in network and cctv installation and maintenance.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
